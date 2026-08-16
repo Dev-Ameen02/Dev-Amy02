@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Ameen-6a5acd?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ff6ec7" height="50" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Amy-6a5acd?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ff6ec7" height="50" />
 </p>
 
 <h1 align="center">👋 Welcome, I'm Amy</h1>
